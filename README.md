@@ -22,8 +22,8 @@ A structured Python learning resource from basics to advanced topics.
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/your-username/Complete_Python.git
-cd Complete_Python
+git clone https://github.com/chandan578/Complete-Python.git
+cd Complete-Python
 ```
 
 ### Set up the virtual environment (optional but recommended):
