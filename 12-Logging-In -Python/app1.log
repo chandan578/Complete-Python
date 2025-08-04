@@ -1,0 +1,8 @@
+2025-08-04 08:30:36 - Arithmetic-App - DEBUG - Adding 10 + 14 = 24
+2025-08-04 08:30:36 - Arithmetic-App - DEBUG - Adding 15 - 2 = 13
+2025-08-04 08:30:36 - Arithmetic-App - DEBUG - Adding 20 * 5 = 100
+2025-08-04 08:30:36 - Arithmetic-App - ERROR - Division by zero error...
+2025-08-04 08:30:59 - Arithmetic-App - DEBUG - Adding 10 + 14 = 24
+2025-08-04 08:30:59 - Arithmetic-App - DEBUG - Adding 15 - 2 = 13
+2025-08-04 08:30:59 - Arithmetic-App - DEBUG - Adding 20 * 5 = 100
+2025-08-04 08:30:59 - Arithmetic-App - ERROR - Division by zero error...
